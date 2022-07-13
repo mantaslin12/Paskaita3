@@ -1,0 +1,22 @@
+body {
+    background-color: grey;
+}
+
+#container {
+    width: 650px;
+    height: 800px;
+    background-color: rgb(70, 70, 70);
+    align-content: center;
+    margin-top: 50px;
+    margin-left: calc((100% - 650px)/2);
+    border-radius: 5px;
+}
+#formName {
+    margin-left: 30px;
+    padding-top: 30px;
+}
+.nameLine {
+display: inline-block;
+margin-top: 50px;
+margin-left: 30px;
+}
